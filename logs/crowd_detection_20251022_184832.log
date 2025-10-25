@@ -1,0 +1,22 @@
+2025-10-22 18:48:32,411 | INFO | ==============================================================
+2025-10-22 18:48:32,411 | INFO | Starting YOLOv8 Crowd Detection with Logging Enabled
+2025-10-22 18:48:32,411 | INFO | Confidence threshold: 0.4
+2025-10-22 18:48:32,411 | INFO | ==============================================================
+2025-10-22 18:48:32,411 | INFO | Loading YOLOv8 model (auto-download if not present)...
+2025-10-22 18:48:32,457 | INFO | Video Info: 1344x756 @ 30 FPS | Total frames: 266
+2025-10-22 18:48:32,458 | INFO | Processing frames...
+2025-10-22 18:48:36,670 | INFO | Progress: 30/266 (11.3%) | People Detected: 7
+2025-10-22 18:48:40,808 | INFO | Progress: 60/266 (22.6%) | People Detected: 7
+2025-10-22 18:48:44,946 | INFO | Progress: 90/266 (33.8%) | People Detected: 8
+2025-10-22 18:48:49,225 | INFO | Progress: 120/266 (45.1%) | People Detected: 8
+2025-10-22 18:48:53,545 | INFO | Progress: 150/266 (56.4%) | People Detected: 8
+2025-10-22 18:48:57,716 | INFO | Progress: 180/266 (67.7%) | People Detected: 8
+2025-10-22 18:49:01,895 | INFO | Progress: 210/266 (78.9%) | People Detected: 14
+2025-10-22 18:49:06,092 | INFO | Progress: 240/266 (90.2%) | People Detected: 19
+2025-10-22 18:49:09,733 | INFO | ==============================================================
+2025-10-22 18:49:09,733 | INFO | Processing Completed Successfully!
+2025-10-22 18:49:09,733 | INFO | Output Video: /Users/anubhi/Desktop/video/output_detected_v8l.mp4
+2025-10-22 18:49:09,733 | INFO | Log File: logs/crowd_detection_20251022_184832.log
+2025-10-22 18:49:09,733 | INFO | CSV Summary: logs/detection_log_20251022_184832.csv
+2025-10-22 18:49:09,733 | INFO | Total Frames Processed: 266
+2025-10-22 18:49:09,733 | INFO | ==============================================================
