@@ -35,9 +35,9 @@ crowd-detection/
 
 
 ➤SETUP INSTRUCTIONS
-1. Install dependencies
+1. Install dependencies: 
    pip install ultralytics opencv-python numpy pandas 
-2. Run the detection script
+2. Run the detection script:
    python main.py
 
 
