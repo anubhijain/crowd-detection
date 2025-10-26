@@ -1,11 +1,11 @@
-CROWD DETECTION 
+➤CROWD DETECTION 
 
 This project performs crowd detection and counting using the **YOLOv8 (You Only Look Once)** deep learning model.  
 It analyzes video frames to identify people, count them, and generate annotated output videos with detection results.  
 Ideal for monitoring crowd density in public places, events, or surveillance footage.
 
 
-FEATURES
+➤FEATURES
 -  Detects and counts people in crowds using YOLOv8  
 - Processes videos frame-by-frame with OpenCV  
 - Supports adjustable confidence levels for detection accuracy  
@@ -13,14 +13,14 @@ FEATURES
 - Outputs annotated videos showing detected individuals  
 
 
-TECH STACK
+➤TECH STACK
 - Python 3
 - YOLOv8 (Ultralytics)
 - OpenCV– Video processing
 - NumPy & Pandas – Data manipulation
 
 
-FOLDER STRUCTURE
+➤FOLDER STRUCTURE
 crowd-detection/
 │
 ├── Input/                     # Folder for input videos or images
@@ -34,13 +34,13 @@ crowd-detection/
 └── logs.zip                   # Compressed logs folder
 
 
-SETUP INSTRUCTIONS
+➤SETUP INSTRUCTIONS
 1. Install dependencies
    pip install ultralytics opencv-python numpy pandas 
 2. Run the detection script
    python main.py
 
 
-OUTPUT
+➤OUTPUT
 * Annotated video with bounding boxes around detected people
 * Log files containing frame-wise detections and confidence values
